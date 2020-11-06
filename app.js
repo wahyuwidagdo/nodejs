@@ -3,8 +3,8 @@ const app = express()
 const bodyParser = require('body-parser')
 const cors = require('cors')
 
-const users = require('./routes/user')
-const auth = require('./routes/auth')
+const users = require('./src/routes/user')
+const auth = require('./src/routes/auth')
 
 app.use(cors())
 

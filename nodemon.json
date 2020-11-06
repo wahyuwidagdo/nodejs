@@ -1,0 +1,10 @@
+{
+    "env": {
+        "JWT_KEY": "aku_cinta_ayana_muach",
+        "MYSQL_HOST": "localhost",
+        "MYSQL_USER": "root",
+        "MYSQL_PASS": "",
+        "MYSQL_DB": "node",
+        "MYSQL_LIMIT": 10
+    }
+}
